@@ -1,0 +1,14 @@
+Creating virtual environment:
+C:\Users\Name\djangogirls> python -m venv myvenv
+
+Activating virtual environment:
+C:\Users\Name\djangogirls> myvenv\Scripts\activate
+
+Installing Django:
+(myvenv) ~$ python -m pip install --upgrade pip
+djangogirls/requirements.txt  -->  Django~=2.0.6
+(myvenv) ~$ pip install -r requirements.txt
+
+Your API token
+cb4190c65af79136b639d549ed04f5a27c9cb22a
+
